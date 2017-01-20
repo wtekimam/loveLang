@@ -18,3 +18,15 @@ p {
 .navbar .navbar-inner {
   text-align: center;
 }
+
+#navigasi {
+  text-align: center;
+
+}
+
+span.glyphicon {
+  color: grey;
+  font-size: 2em;
+  margin: 10px 10px 10px 10px;
+
+}
