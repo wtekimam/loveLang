@@ -1,0 +1,27 @@
+{
+  "name": "lovelang",
+  "version": "0.0.0",
+  "author": "Windalfin Culmen <windalfinc@gmail.com>",
+  "private": true,
+  "scripts": {
+    "build": "npm install && grunt publish",
+    "dev": "grunt & nodemon lovelang-frontend.js"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "express": "~4.13.1",
+    "minimatch": "^3.0.3",
+    "morgan": "~1.6.1",
+    "pug": "^2.0.0-beta9",
+    "request": "^2.19.0",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "uglify": "^0.1.5"
+  }
+}
