@@ -1,5 +1,5 @@
-@import url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css');
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans|Raleway');
+@import url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css');
+@import url('//fonts.googleapis.com/css?family=Nunito+Sans|Raleway');
 
 h1, h2, h3 {
   font-family: 'Raleway', sans-serif;
@@ -30,3 +30,5 @@ span.glyphicon {
   margin: 10px 10px 10px 10px;
 
 }
+
+
